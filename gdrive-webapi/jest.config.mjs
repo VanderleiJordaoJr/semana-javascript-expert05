@@ -8,7 +8,7 @@ export default {
 
 	restoreMocks: true,
 
-	// collectCoverage: true,
+	collectCoverage: true,
 
 	coverageDirectory: "coverage",
 
