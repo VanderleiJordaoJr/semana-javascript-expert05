@@ -58,5 +58,9 @@ Marque esse projeto com uma estrela 🌟
     -   Esse erro acontece porque gerei um certificado atrelado ao usuário da minha máquina.
     -   Você pode clicar em prosseguir no browser e usar o certificado invalido que o projeto vai continuar funcionando, mas se quiser gerar o seu próprio, escrevi o passo a passo em [./certificates](./certificates)
 
--   Rodei `npm test` mas nada acontece, o que fazer?
-    -   Verifique a versão do seu Node.js. Estamos usando na versão 16.8. Entre no [site do node.js](https://nodejs.org) e baixe a versão mais recente.
+<<<<<<< HEAD
+
+-   Rodei `npm test` mas nada acontece, o que fazer? - Verifique a versão do seu Node.js. Estamos usando na versão 16.8. Entre no [site do node.js](https://nodejs.org) e baixe a versão mais recente.
+    =======
+-   Rodei `npm test` mas nada acontece, o que fazer? - Verifique a versão do seu Node.js. Estamos usando na versão 16.8. Entre no [site do node.js](https://nodejs.org) e baixe a versão mais recente.
+    > > > > > > > 78509c80c95572b08ea3de3de4daebef2c5f140e
